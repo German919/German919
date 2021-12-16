@@ -10,7 +10,7 @@
 
 
 <h3 align="center">Proyecto realizado en Henry </h3>
-<h4 align="right">App para visualizar todos los paises, con toda su información!! </h4>
+<h4 align="left">App para visualizar todos los paises, con toda su información!! </h4>
 
 
 <h5 align="left"> LandingPage</h5>

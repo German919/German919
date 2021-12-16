@@ -8,5 +8,7 @@
 
 📫 Me puedes contactar por mi email ferreyragd1@gmail.com
 
+![presentacion](https://user-images.githubusercontent.com/70654012/146402526-0bdb3380-9230-477b-bd74-8c20316a5fd9.png)
+
 
 

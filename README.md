@@ -29,14 +29,14 @@
 ![home2](https://user-images.githubusercontent.com/70654012/146407309-e0e114e2-f202-4f16-bd36-3de38eaf6aa1.png)
 
 
-<h5 align="left">Detalles</h5>
+# <h4 align="left">Detalles</h4>
 <p>Acá podemos observar los detalles y las actividades de cada país.</p>
 
 ![detalle-ca2](https://user-images.githubusercontent.com/70654012/146408416-eae0d184-23be-4d16-887a-fbca469f0cfd.png)
 
 
 
-<h4 align="left">Actividades</h4>
+# <h4 align="left">Actividades</h4>
 <p>Acá podemos crear las actividades para cada país. Donde todos los campos se deben completar de manera obligatoria.</p>
 
 ![crear-activities2](https://user-images.githubusercontent.com/70654012/146408980-ee679db5-e955-4c05-81b8-4d376318d94e.png)

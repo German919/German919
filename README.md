@@ -24,13 +24,17 @@
 
 <h5 align="left">Detalles</h5>
 
+<div>
+
 ![detalle-sa2](https://user-images.githubusercontent.com/70654012/146408321-2bfe5497-4f04-47d0-909b-db03f6ba0a3c.png)
 
 ![detalle-ca2](https://user-images.githubusercontent.com/70654012/146408416-eae0d184-23be-4d16-887a-fbca469f0cfd.png)
 
+</div>
+
 <h5 align="left">Actividades</h5>
 
-![crear-activities](https://user-images.githubusercontent.com/70654012/146405782-c03f1267-ea96-4d3a-9644-c82120c543cc.png)
+![crear-activities2](https://user-images.githubusercontent.com/70654012/146408980-ee679db5-e955-4c05-81b8-4d376318d94e.png)
 
 
 

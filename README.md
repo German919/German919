@@ -21,11 +21,13 @@
 ![presentacion2](https://user-images.githubusercontent.com/70654012/146407826-bb43a0d8-df8d-460b-991e-25bd96e71ca4.png)
 
 
-<h4 align="left">Home</h4>
+
+# <h4 align="left">Home</h4>
 <p>Acá podemos ver la presentación de los paises mediante cards, tambien tenemos filtrados por abecedario, por población, y por
  continente. Y también tenemos diferentes tipos de búsquedas.</p>
 
 ![home2](https://user-images.githubusercontent.com/70654012/146407309-e0e114e2-f202-4f16-bd36-3de38eaf6aa1.png)
+
 
 <h5 align="left">Detalles</h5>
 <p>Acá podemos observar los detalles y las actividades de cada país.</p>

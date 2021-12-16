@@ -20,7 +20,7 @@
 
 <h5 align="left">Home</h5>
 
-![home](https://user-images.githubusercontent.com/70654012/146405164-bb06fad2-ca2d-416a-b02a-20281ab07a85.png)
+![home2](https://user-images.githubusercontent.com/70654012/146407309-e0e114e2-f202-4f16-bd36-3de38eaf6aa1.png)
 
 <h5 align="left">Detalles</h5>
 

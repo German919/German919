@@ -24,8 +24,8 @@
 
 <h5 align="left">Detalles</h5>
 
-
-![detalle-sa2](https://user-images.githubusercontent.com/70654012/146408321-2bfe5497-4f04-47d0-909b-db03f6ba0a3c.png)![detalle-ca2](https://user-images.githubusercontent.com/70654012/146408416-eae0d184-23be-4d16-887a-fbca469f0cfd.png)
+![detalle-ca2](https://user-images.githubusercontent.com/70654012/146408416-eae0d184-23be-4d16-887a-fbca469f0cfd.png)
+![detalle-sa2](https://user-images.githubusercontent.com/70654012/146408321-2bfe5497-4f04-47d0-909b-db03f6ba0a3c.png)
 
 
 

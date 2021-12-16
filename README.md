@@ -24,9 +24,9 @@
 
 <h5 align="left">Detalles</h5>
 
-![detalle-ca](https://user-images.githubusercontent.com/70654012/146405426-5ff279b4-4b90-43a1-b04d-98211b0d3252.png)
+![detalle-sa2](https://user-images.githubusercontent.com/70654012/146408321-2bfe5497-4f04-47d0-909b-db03f6ba0a3c.png)
 
-![detalle-sa](https://user-images.githubusercontent.com/70654012/146405647-6dd11367-afd6-4472-96a3-3975e2968f4c.png)
+![detalle-ca2](https://user-images.githubusercontent.com/70654012/146408416-eae0d184-23be-4d16-887a-fbca469f0cfd.png)
 
 <h5 align="left">Actividades</h5>
 

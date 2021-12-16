@@ -1,6 +1,6 @@
-# Hola 👋, Soy Germán Ferreyra
-### FullStack Web Developer, orientado al Front-end Developer 🚀 
-**Analista en Sistemas de Computación , apasionado por el desarrollo web, y por el desarrollo con nuevas tecnologías... me encanta React😎**
+<h1 align="center">Hola 👋, Soy German Ferreyra</h1>
+<h3 align="center">Soy FullStack Web Developer, con orientación al Front-end 🚀</h3>
+<h4 align="center">Analista en Sistemas de Computación , apasionado por el desarrollo web, y por el desarrollo con nuevas tecnologías... me encanta React😎</h4>
 
 🌱 Soy autodidacta y me gusta aprender constantemente, actualmente estoy aprendiendo Typescript.
 

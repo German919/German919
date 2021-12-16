@@ -15,7 +15,7 @@
 
 <h5 align="left"> LandingPage</h5>
 
-![presentacion](https://user-images.githubusercontent.com/70654012/146402526-0bdb3380-9230-477b-bd74-8c20316a5fd9.png)
+![presentacion2](https://user-images.githubusercontent.com/70654012/146407826-bb43a0d8-df8d-460b-991e-25bd96e71ca4.png)
 
 
 <h5 align="left">Home</h5>

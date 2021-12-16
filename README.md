@@ -13,7 +13,8 @@
 <h4 align="right">App para visualizar todos los paises, con toda su información!! </h4>
 
 
-<h5 align="right"> LandingPage</h5>
+<h5 align="left"> LandingPage</h5>
+
 ![presentacion](https://user-images.githubusercontent.com/70654012/146402526-0bdb3380-9230-477b-bd74-8c20316a5fd9.png)
 
 
